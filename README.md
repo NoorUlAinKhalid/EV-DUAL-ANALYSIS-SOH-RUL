@@ -48,3 +48,9 @@ The study utilizes two distinct datasets to evaluate model performance and gener
     git clone [https://github.com/YourUsername/Battery-SoH-RUL-ML-DL-Comparison.git](https://github.com/YourUsername/Battery-SoH-RUL-ML-DL-Comparison.git)
     cd Battery-SoH-RUL-ML-DL-Comparison
     ```
+
+### Contributions
+| Data and implementations | Name         | Email                           | Github Profile  |
+| :----------------------- | :----------- | :------------------------------ | :-------------- |
+| NASA PCoE                | Faiza Jabbar | fjabbar.msai25seecs@seecs.edu.pk|                 |
+| Electric Avenue dataset  | Noor Ul Ain  | nain.msai25seecs@seecs.edu.pk   | NoorUlAinKhalid |
